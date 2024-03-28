@@ -78,7 +78,7 @@ class _MyFormState extends State<MyForm> {
   }
 
   void _submit() {
-    // Робимо що-небудь з валідними даними, наприклад, відправляємо їх на сервер
+    
     print('Ім\'я: $_name, Email: $_email');
   }
 }
